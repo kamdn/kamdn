@@ -15,11 +15,11 @@
 
 <h3 align="center">Veja minhas estatísticas: </h3>
 
-<a>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" alt="kamdn" />
+<a href="https://github.com/kamdn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamdn&card_width=25px&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" alt="kamdn" />
 </a>
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamdn&layout=compact&langs_count=7&&bg_color=424242&title_color=fd5901&text_color=fff" alt="kamdn" />
+<a href="https://github.com/kamdn">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamdn&layout=default&langs_count=7&&bg_color=424242&title_color=fd5901&text_color=fff" alt="kamdn" />
 </a>
 
 <br>
