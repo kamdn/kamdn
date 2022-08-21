@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/109771015/185806188-4ddad38a-484c-4168-9700-fbf48d8b5067.png">
+<img align="center" src="https://user-images.githubusercontent.com/109771015/185806520-90bd9e7b-a959-4e89-8b3f-fc8c2ebfb92b.png">
 
 <a href="https://github.com/kamdn">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" alt="kamdn" />
