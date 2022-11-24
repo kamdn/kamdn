@@ -3,8 +3,8 @@
 </div>
 <div>
    <a href="https://github.com/kamdn">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" alt="kamdn"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamdn&show_icons=true&layout=compact&langs_count=7&&bg_color=424242&title_color=fd5901&text_color=fff" alt="kamdn"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" alt="kamdn"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamdn&show_icons=true&layout=compact&langs_count=7&&bg_color=424242&title_color=fd5901&text_color=fff" alt="kamdn"/>
 </div>
 <h3>Social Media:</h3>
 <p>
