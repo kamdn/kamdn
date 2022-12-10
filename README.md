@@ -1,4 +1,5 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/></h1>
+<br>
    <img align="right" src="https://user-images.githubusercontent.com/109771015/206862806-b5092122-a937-4e30-b477-47db84705b0f.gif" width="250px"/>
    <p>Nice to meet you 🙋‍! My name is Karina. I live in Brazil. I'm a web development student.<br> I've been dedicating myself to studies for some time. I'm very interested in back-end languages.<br> I am curious and empathetic. I really like reading and listening to music.<br> I have two dogs as pets 🐾🐕</p>
 <br>
