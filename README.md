@@ -1,13 +1,24 @@
-<div align="center">
-   <img height="275em" src="https://user-images.githubusercontent.com/109771015/185806520-90bd9e7b-a959-4e89-8b3f-fc8c2ebfb92b.png">
+<h1 align="center"> Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/></h1>
+   <img align="left" src="https://user-images.githubusercontent.com/109771015/206862806-b5092122-a937-4e30-b477-47db84705b0f.gif" width="250px"/>
+   <p>Nice to meet you 🙋‍! My name is Karina. I live in Brazil. I'm a web development student.<br> I've been dedicating myself to studies for 8 months. I'm very interested in back-end languages.<br> I am curious and empathetic. I really like reading and listening to music.<br> I have two dogs as pets 🐾🐕</p>
+<br>
+<div style="display: inline_block">
+   <p>👩‍💻 <strong>I'm currently programming in:</strong></p>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
 </div>
+<br>
 <div align="center">
-   <a href="https://github.com/kamdn">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" alt="kamdn"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamdn&show_icons=true&layout=compact&langs_count=7&&bg_color=424242&title_color=fd5901&text_color=fff" alt="kamdn"/>
+   <h2>My stats</h2>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdn&layout=compact&bg_color=424242&title_color=fd5901&text_color=fff" />
 </div>
-<h3 align="center">Social Media:</h3>
-<p align="center">
-<a href="https://instagram.com/ka.mdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka.mdn" height="30" width="40"/>
-<a href="https://linkedin.com/in/kamdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamdn" height="30" width="40"/>
-</p>
+<br>
+<div align="center">
+   <a href="https://instagram.com/ka.mdn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka.mdn" width="25px"/>
+   <a href="https://linkedin.com/in/kamdn" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamdn" width="25px"/>
+</div>
