@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/></h1>
 <br>
-   <img align="right" src="https://user-images.githubusercontent.com/109771015/206862806-b5092122-a937-4e30-b477-47db84705b0f.gif" width="250px"/>
+   <img align="left" src="https://user-images.githubusercontent.com/109771015/206862806-b5092122-a937-4e30-b477-47db84705b0f.gif" width="250px"/>
    <p>Nice to meet you 🙋‍! My name is Karina. I live in Brazil. I'm a web development student.<br> I've been dedicating myself to studies for some time. I'm very interested in back-end languages.<br> I am curious and empathetic. I really like reading and listening to music.<br> I have two dogs as pets 🐾🐕</p>
 <br>
 <div style="display: inline_block">
@@ -11,13 +11,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
 </div>
 <br>
 <div align="center">
    <h2>My stats</h2>
 <br>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=424242&title_color=fd5901&icon_color=fd5901&text_color=fff&include_all_commits=true&count_private=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdn&layout=compact&bg_color=424242&title_color=fd5901&text_color=fff" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=272727&title_color=e6780b&icon_color=e6780b&text_color=fff&include_all_commits=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdn&layout=compact&bg_color=272727&title_color=e6780b&text_color=fff" />
 </div>
 <br>
 <div align="center">
