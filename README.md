@@ -22,6 +22,5 @@
 </div>
 <br>
 <div align="center">
-   <a href="https://instagram.com/ka.mdn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ka.mdn" width="25px"/></a>
    <a href="https://linkedin.com/in/kamdn" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamdn" width="25px"/></a>
 </div>
