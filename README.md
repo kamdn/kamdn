@@ -17,8 +17,8 @@
 <div align="center">
    <h2>My stats</h2>
 <br>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=272727&title_color=e6780b&icon_color=e6780b&text_color=fff&include_all_commits=true&count_private=true" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdn&layout=compact&bg_color=272727&title_color=e6780b&text_color=fff" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kamdn&show_icons=true&bg_color=323232&title_color=ff9900&icon_color=ff9900&text_color=fff&include_all_commits=true&count_private=true" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamdn&layout=compact&bg_color=323232&title_color=ff9900&text_color=fff" />
 </div>
 <br>
 <div align="center">
