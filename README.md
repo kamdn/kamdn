@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50px"/></h1>
 <br>
-   <img align="left" src="https://user-images.githubusercontent.com/109771015/206862806-b5092122-a937-4e30-b477-47db84705b0f.gif" width="250px"/>
+   <img align="right" src="https://user-images.githubusercontent.com/109771015/206862806-b5092122-a937-4e30-b477-47db84705b0f.gif" width="250px"/>
    <p>Nice to meet you 🙋‍! My name is Karina. I live in Brazil. I'm a student of web development and for some time I've been dedicating myself to studies about. I'm very interested in backend languages.<br> I am curious and empathetic. I enjoy reading and listening to music. I have two dogs as pets 🐾</p>
 <br>
 <div style="display: inline_block">
